@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS harborwing CHARACTER SET utf8mb4;
+USE harborwing;
+
 -- MySQL dump 10.13  Distrib 8.0.46, for Win64 (x86_64)
 --
 -- Host: localhost    Database: harborwing
